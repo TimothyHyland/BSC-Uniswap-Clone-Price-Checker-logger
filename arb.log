@@ -1,0 +1,528 @@
+2022.01.30, 01:57:05.0634 UTC -> Arb opportunity found!
+        Buy Token2 from exchange2  at 3872.0406130991882 
+        Sell Token2 from exchange1 at 3850.398536013612
+        Expected cost of flashswap: 11.650925194706815
+        Expected Gas cost: 0.63525
+        Expected profit: -31.73922534441654 Token1
+2022.01.30, 01:57:08.0506 UTC -> Arb opportunity found!
+        Buy Token2 from exchange2  at 3872.0257151459277 
+        Sell Token2 from exchange1 at 3850.398536013612
+        Expected cost of flashswap: 11.650925194706815
+        Expected Gas cost: 0.63525
+        Expected profit: -31.754003109963108 Token1
+2022.01.30, 01:57:11.0374 UTC -> Arb opportunity found!
+        Buy Token2 from exchange2  at 3872.0257333687987 
+        Sell Token2 from exchange1 at 3850.398536013612
+        Expected cost of flashswap: 11.650925194706815
+        Expected Gas cost: 0.63525
+        Expected profit: -31.753985034102428 Token1
+2022.01.30, 01:57:14.0375 UTC -> Arb opportunity found!
+        Buy Token2 from exchange2  at 3872.021154575177 
+        Sell Token2 from exchange1 at 3850.398536013612
+        Expected cost of flashswap: 11.650925194706815
+        Expected Gas cost: 0.63525
+        Expected profit: -31.75852688720188 Token1
+2022.01.30, 01:57:17.0528 UTC -> Arb opportunity found!
+        Buy Token2 from exchange2  at 3872.023885457314 
+        Sell Token2 from exchange1 at 3850.412493743977
+        Expected cost of flashswap: 11.650967462935114
+        Expected Gas cost: 0.63525
+        Expected profit: -31.7698651773364 Token1
+2022.01.30, 01:57:20.0423 UTC -> Arb opportunity found!
+        Buy Token2 from exchange2  at 3872.114652407085 
+        Sell Token2 from exchange1 at 3850.412493743977
+        Expected cost of flashswap: 11.650967462935114
+        Expected Gas cost: 0.63525
+        Expected profit: -31.679828417092907 Token1
+2022.01.30, 01:57:24.0665 UTC -> Arb opportunity found!
+        Buy Token2 from exchange2  at 3872.1012508036306 
+        Sell Token2 from exchange1 at 3850.420754995318
+        Expected cost of flashswap: 11.650992480502737
+        Expected Gas cost: 0.63525
+        Expected profit: -31.70143607595601 Token1
+2022.01.30, 01:57:26.0322 UTC -> Arb opportunity found!
+        Buy Token2 from exchange2  at 3872.1390063028803 
+        Sell Token2 from exchange1 at 3850.420754995318
+        Expected cost of flashswap: 11.650992480502737
+        Expected Gas cost: 0.63525
+        Expected profit: -31.663985162682096 Token1
+2022.01.30, 01:57:29.0511 UTC -> Arb opportunity found!
+        Buy Token2 from exchange2  at 3872.1727143192265 
+        Sell Token2 from exchange1 at 3850.420754995318
+        Expected cost of flashswap: 11.650992480502737
+        Expected Gas cost: 0.63525
+        Expected profit: -31.63054907975102 Token1
+2022.01.30, 01:57:32.0750 UTC -> Arb opportunity found!
+        Buy Token2 from exchange2  at 3872.1656940377175 
+        Sell Token2 from exchange1 at 3850.420754995318
+        Expected cost of flashswap: 11.650992480502737
+        Expected Gas cost: 0.63525
+        Expected profit: -31.637512725864056 Token1
+2022.01.30, 02:00:44.0850 UTC -> Arb opportunity found!
+        Buy Token2 from exchange2  at 3872.1683525797675 
+        Sell Token2 from exchange1 at 3850.187594747123
+        Expected cost of flashswap: 11.650286397210493
+        Expected Gas cost: 0.63525
+        Expected profit: -31.400220547193115 Token1
+2022.01.30, 02:00:44.0851 UTC -> Arb opportunity found!
+        Flashloan Token1 on exchange2  at 0.025955499582214953 
+        Sell Token1 on  at exchange1 0.025848415926292504 
+        Expected cost of flashswap: 0.00007809095490356882
+        Expected Gas cost: 0.63525
+        Expected profit: -0.635435174610826 Token2
+2022.01.30, 02:00:48.0040 UTC -> Arb opportunity found!
+        Flashloan Token1 on exchange2  at 0.025955618598653873 
+        Sell Token1 on  at exchange1 0.025848029312486812 
+        Expected cost of flashswap: 0.00007808978689762339
+        Expected Gas cost: 0.63525
+        Expected profit: -0.6354356790730646 Token2
+2022.01.30, 02:00:48.0040 UTC -> Arb opportunity found!
+        Buy Token2 from exchange2  at 3872.150597014736 
+        Sell Token2 from exchange1 at 3850.2451599932047
+        Expected cost of flashswap: 11.650460722104981
+        Expected Gas cost: 0.63525
+        Expected profit: -31.475766844558805 Token1
+2022.01.30, 02:00:51.0455 UTC -> Arb opportunity found!
+        Buy Token2 from exchange2  at 3872.118250765682 
+        Sell Token2 from exchange1 at 3850.2451599932047
+        Expected cost of flashswap: 11.650460722104981
+        Expected Gas cost: 0.63525
+        Expected profit: -31.507852094859302 Token1
+2022.01.30, 02:00:51.0455 UTC -> Arb opportunity found!
+        Flashloan Token1 on exchange2  at 0.025955835419815818 
+        Sell Token1 on  at exchange1 0.025848029312486812 
+        Expected cost of flashswap: 0.00007808978689762339
+        Expected Gas cost: 0.63525
+        Expected profit: -0.6354358958942266 Token2
+2022.01.30, 02:00:53.0364 UTC -> Arb opportunity found!
+        Buy Token2 from exchange2  at 3872.1163608121897 
+        Sell Token2 from exchange1 at 3850.2451599932047
+        Expected cost of flashswap: 11.650460722104981
+        Expected Gas cost: 0.63525
+        Expected profit: -31.509726801373475 Token1
+2022.01.30, 02:00:53.0364 UTC -> Arb opportunity found!
+        Flashloan Token1 on exchange2  at 0.025955848088544387 
+        Sell Token1 on  at exchange1 0.025848029312486812 
+        Expected cost of flashswap: 0.00007808978689762339
+        Expected Gas cost: 0.63525
+        Expected profit: -0.6354359085629552 Token2
+2022.01.30, 02:00:56.0542 UTC -> Arb opportunity found!
+        Buy Token2 from exchange2  at 3872.115633892418 
+        Sell Token2 from exchange1 at 3850.2451599932047
+        Expected cost of flashswap: 11.650460722104981
+        Expected Gas cost: 0.63525
+        Expected profit: -31.510447854533325 Token1
+2022.01.30, 02:00:56.0542 UTC -> Arb opportunity found!
+        Flashloan Token1 on exchange2  at 0.025955852961225663 
+        Sell Token1 on  at exchange1 0.025848029312486812 
+        Expected cost of flashswap: 0.00007808978689762339
+        Expected Gas cost: 0.63525
+        Expected profit: -0.6354359134356364 Token2
+2022.01.30, 02:00:59.0664 UTC -> Arb opportunity found!
+        Buy Token2 from exchange2  at 3872.12274842293 
+        Sell Token2 from exchange1 at 3850.2451599932047
+        Expected cost of flashswap: 11.650460722104981
+        Expected Gas cost: 0.63525
+        Expected profit: -31.503390718692756 Token1
+2022.01.30, 02:00:59.0665 UTC -> Arb opportunity found!
+        Flashloan Token1 on exchange2  at 0.025955805271176788 
+        Sell Token1 on  at exchange1 0.025848029312486812 
+        Expected cost of flashswap: 0.00007808978689762339
+        Expected Gas cost: 0.63525
+        Expected profit: -0.6354358657455875 Token2
+2022.01.30, 02:01:02.0449 UTC -> Arb opportunity found!
+        Buy Token2 from exchange2  at 3872.1368850143463 
+        Sell Token2 from exchange1 at 3850.2451599932047
+        Expected cost of flashswap: 11.650460722104981
+        Expected Gas cost: 0.63525
+        Expected profit: -31.489368171489062 Token1
+2022.01.30, 02:01:02.0449 UTC -> Arb opportunity found!
+        Flashloan Token1 on exchange2  at 0.02595571051144329 
+        Sell Token1 on  at exchange1 0.025848029312486812 
+        Expected cost of flashswap: 0.00007808978689762339
+        Expected Gas cost: 0.63525
+        Expected profit: -0.635435770985854 Token2
+2022.01.30, 02:01:06.0272 UTC -> Arb opportunity found!
+        Buy Token2 from exchange2  at 3872.1649581539896 
+        Sell Token2 from exchange1 at 3850.2451599932047
+        Expected cost of flashswap: 11.650460722104981
+        Expected Gas cost: 0.63525
+        Expected profit: -31.461521507098226 Token1
+2022.01.30, 02:01:06.0272 UTC -> Arb opportunity found!
+        Flashloan Token1 on exchange2  at 0.025955522334949813 
+        Sell Token1 on  at exchange1 0.025848029312486812 
+        Expected cost of flashswap: 0.00007808978689762339
+        Expected Gas cost: 0.63525
+        Expected profit: -0.6354355828093606 Token2
+2022.01.30, 02:01:09.0259 UTC -> Arb opportunity found!
+        Buy Token2 from exchange2  at 3872.1658794555865 
+        Sell Token2 from exchange1 at 3850.2451599932047
+        Expected cost of flashswap: 11.650460722104981
+        Expected Gas cost: 0.63525
+        Expected profit: -31.46060763779333 Token1
+2022.01.30, 02:01:09.0259 UTC -> Arb opportunity found!
+        Flashloan Token1 on exchange2  at 0.025955516159437475 
+        Sell Token1 on  at exchange1 0.025848029312486812 
+        Expected cost of flashswap: 0.00007808978689762339
+        Expected Gas cost: 0.63525
+        Expected profit: -0.6354355766338482 Token2
+2022.01.30, 02:01:12.0626 UTC -> Arb opportunity found!
+        Buy Token2 from exchange2  at 3872.1477825758434 
+        Sell Token2 from exchange1 at 3850.2451599932047
+        Expected cost of flashswap: 11.650460722104981
+        Expected Gas cost: 0.63525
+        Expected profit: -31.47855852287894 Token1
+2022.01.30, 02:01:12.0626 UTC -> Arb opportunity found!
+        Flashloan Token1 on exchange2  at 0.025955637463891148 
+        Sell Token1 on  at exchange1 0.025848029312486812 
+        Expected cost of flashswap: 0.00007808978689762339
+        Expected Gas cost: 0.63525
+        Expected profit: -0.6354356979383019 Token2
+2022.01.30, 02:01:14.0600 UTC -> Arb opportunity found!
+        Buy Token2 from exchange2  at 3872.152699272486 
+        Sell Token2 from exchange1 at 3850.2451599932047
+        Expected cost of flashswap: 11.650460722104981
+        Expected Gas cost: 0.63525
+        Expected profit: -31.473681490730726 Token1
+2022.01.30, 02:01:14.0600 UTC -> Arb opportunity found!
+        Flashloan Token1 on exchange2  at 0.02595560450686954 
+        Sell Token1 on  at exchange1 0.025848029312486812 
+        Expected cost of flashswap: 0.00007808978689762339
+        Expected Gas cost: 0.63525
+        Expected profit: -0.6354356649812803 Token2
+2022.01.30, 02:01:18.0132 UTC -> Arb opportunity found!
+        Buy Token2 from exchange2  at 3872.1669816563945 
+        Sell Token2 from exchange1 at 3850.273989772157
+        Expected cost of flashswap: 11.650548027355853
+        Expected Gas cost: 0.63525
+        Expected profit: -31.488528771443455 Token1
+2022.01.30, 02:01:18.0132 UTC -> Arb opportunity found!
+        Flashloan Token1 on exchange2  at 0.025955508771348702 
+        Sell Token1 on  at exchange1 0.025847835693225345 
+        Expected cost of flashswap: 0.00007808920195098018
+        Expected Gas cost: 0.63525
+        Expected profit: -0.6354357622800743 Token2
+2022.01.30, 02:01:21.0054 UTC -> Arb opportunity found!
+        Buy Token2 from exchange2  at 3872.1763563093223 
+        Sell Token2 from exchange1 at 3850.273989772157
+        Expected cost of flashswap: 11.650548027355853
+        Expected Gas cost: 0.63525
+        Expected profit: -31.479230109943003 Token1
+2022.01.30, 02:01:21.0054 UTC -> Arb opportunity found!
+        Flashloan Token1 on exchange2  at 0.02595544593420357 
+        Sell Token1 on  at exchange1 0.025847835693225345 
+        Expected cost of flashswap: 0.00007808920195098018
+        Expected Gas cost: 0.63525
+        Expected profit: -0.6354356994429292 Token2
+2022.01.30, 02:01:23.0426 UTC -> Arb opportunity found!
+        Buy Token2 from exchange2  at 3872.1664314551535 
+        Sell Token2 from exchange1 at 3850.284359001267
+        Expected cost of flashswap: 11.650579428516266
+        Expected Gas cost: 0.63525
+        Expected profit: -31.499510546904006 Token1
+2022.01.30, 02:01:23.0426 UTC -> Arb opportunity found!
+        Flashloan Token1 on exchange2  at 0.025955512460580667 
+        Sell Token1 on  at exchange1 0.025847766054729552 
+        Expected cost of flashswap: 0.00007808899156486193
+        Expected Gas cost: 0.63525
+        Expected profit: -0.6354358353974159 Token2
+2022.01.30, 02:01:26.0355 UTC -> Arb opportunity found!
+        Buy Token2 from exchange2  at 3872.1650040650397 
+        Sell Token2 from exchange1 at 3850.284359001267
+        Expected cost of flashswap: 11.650579428516266
+        Expected Gas cost: 0.63525
+        Expected profit: -31.500926421713487 Token1
+2022.01.30, 02:01:26.0355 UTC -> Arb opportunity found!
+        Flashloan Token1 on exchange2  at 0.02595552202841703 
+        Sell Token1 on  at exchange1 0.025847766054729552 
+        Expected cost of flashswap: 0.00007808899156486193
+        Expected Gas cost: 0.63525
+        Expected profit: -0.6354358449652524 Token2
+2022.01.30, 02:01:29.0538 UTC -> Arb opportunity found!
+        Buy Token2 from exchange2  at 3872.150214043774 
+        Sell Token2 from exchange1 at 3850.284359001267
+        Expected cost of flashswap: 11.650579428516266
+        Expected Gas cost: 0.63525
+        Expected profit: -31.51559712620447 Token1
+2022.01.30, 02:01:29.0539 UTC -> Arb opportunity found!
+        Flashloan Token1 on exchange2  at 0.02595562116676372 
+        Sell Token1 on  at exchange1 0.025847766054729552 
+        Expected cost of flashswap: 0.00007808899156486193
+        Expected Gas cost: 0.63525
+        Expected profit: -0.635435944103599 Token2
+2022.01.30, 02:01:33.0067 UTC -> Arb opportunity found!
+        Buy Token2 from exchange2  at 3872.1519242027252 
+        Sell Token2 from exchange1 at 3850.284359001267
+        Expected cost of flashswap: 11.650579428516266
+        Expected Gas cost: 0.63525
+        Expected profit: -31.51390076366097 Token1
+2022.01.30, 02:01:33.0067 UTC -> Arb opportunity found!
+        Flashloan Token1 on exchange2  at 0.02595560970343276 
+        Sell Token1 on  at exchange1 0.025847766054729552 
+        Expected cost of flashswap: 0.00007808899156486193
+        Expected Gas cost: 0.63525
+        Expected profit: -0.6354359326402681 Token2
+2022.01.30, 02:01:35.0391 UTC -> Arb opportunity found!
+        Buy Token2 from exchange2  at 3872.1670602726126 
+        Sell Token2 from exchange1 at 3850.284359001267
+        Expected cost of flashswap: 11.650579428516266
+        Expected Gas cost: 0.63525
+        Expected profit: -31.498886799882897 Token1
+2022.01.30, 02:01:35.0391 UTC -> Arb opportunity found!
+        Flashloan Token1 on exchange2  at 0.025955508245593305 
+        Sell Token1 on  at exchange1 0.025847766054729552 
+        Expected cost of flashswap: 0.00007808899156486193
+        Expected Gas cost: 0.63525
+        Expected profit: -0.6354358311824286 Token2
+2022.01.30, 02:01:38.0569 UTC -> Arb opportunity found!
+        Buy Token2 from exchange2  at 3872.041141114559 
+        Sell Token2 from exchange1 at 3850.284359001267
+        Expected cost of flashswap: 11.650579428516266
+        Expected Gas cost: 0.63525
+        Expected profit: -31.623790119844855 Token1
+2022.01.30, 02:01:38.0569 UTC -> Arb opportunity found!
+        Flashloan Token1 on exchange2  at 0.02595635231213936 
+        Sell Token1 on  at exchange1 0.025847766054729552 
+        Expected cost of flashswap: 0.00007808899156486193
+        Expected Gas cost: 0.63525
+        Expected profit: -0.6354366752489746 Token2
+2022.01.30, 02:01:41.0626 UTC -> Arb opportunity found!
+        Buy Token2 from exchange2  at 3872.0404981309043 
+        Sell Token2 from exchange1 at 3850.284359001267
+        Expected cost of flashswap: 11.650579428516266
+        Expected Gas cost: 0.63525
+        Expected profit: -31.624427915917934 Token1
+2022.01.30, 02:01:41.0626 UTC -> Arb opportunity found!
+        Flashloan Token1 on exchange2  at 0.025956356622353755 
+        Sell Token1 on  at exchange1 0.025847766054729552 
+        Expected cost of flashswap: 0.00007808899156486193
+        Expected Gas cost: 0.63525
+        Expected profit: -0.635436679559189 Token2
+2022.01.30, 02:01:45.0122 UTC -> Arb opportunity found!
+        Buy Token2 from exchange2  at 3872.0300824689607 
+        Sell Token2 from exchange1 at 3850.284359001267
+        Expected cost of flashswap: 11.650579428516266
+        Expected Gas cost: 0.63525
+        Expected profit: -31.634759550733364 Token1
+2022.01.30, 02:01:45.0123 UTC -> Arb opportunity found!
+        Flashloan Token1 on exchange2  at 0.02595642644353433 
+        Sell Token1 on  at exchange1 0.025847766054729552 
+        Expected cost of flashswap: 0.00007808899156486193
+        Expected Gas cost: 0.63525
+        Expected profit: -0.6354367493803696 Token2
+2022.01.30, 02:01:47.0464 UTC -> Arb opportunity found!
+        Buy Token2 from exchange2  at 3872.424819389658 
+        Sell Token2 from exchange1 at 3850.284359001267
+        Expected cost of flashswap: 11.650579428516266
+        Expected Gas cost: 0.63525
+        Expected profit: -31.24320710313141 Token1
+2022.01.30, 02:01:47.0464 UTC -> Arb opportunity found!
+        Flashloan Token1 on exchange2  at 0.02595378059505981 
+        Sell Token1 on  at exchange1 0.025847766054729552 
+        Expected cost of flashswap: 0.00007808899156486193
+        Expected Gas cost: 0.63525
+        Expected profit: -0.6354341035318951 Token2
+2022.01.30, 02:01:50.0637 UTC -> Arb opportunity found!
+        Buy Token2 from exchange2  at 3872.4243240527676 
+        Sell Token2 from exchange1 at 3850.284359001267
+        Expected cost of flashswap: 11.650579428516266
+        Expected Gas cost: 0.63525
+        Expected profit: -31.243698443236283 Token1
+2022.01.30, 02:01:50.0637 UTC -> Arb opportunity found!
+        Flashloan Token1 on exchange2  at 0.025953783914870732 
+        Sell Token1 on  at exchange1 0.025847766054729552 
+        Expected cost of flashswap: 0.00007808899156486193
+        Expected Gas cost: 0.63525
+        Expected profit: -0.635434106851706 Token2
+2022.01.30, 02:01:54.0228 UTC -> Arb opportunity found!
+        Buy Token2 from exchange2  at 3872.413688377501 
+        Sell Token2 from exchange1 at 3850.284359001267
+        Expected cost of flashswap: 11.650579428516266
+        Expected Gas cost: 0.63525
+        Expected profit: -31.25424831569508 Token1
+2022.01.30, 02:01:54.0228 UTC -> Arb opportunity found!
+        Flashloan Token1 on exchange2  at 0.02595385519677515 
+        Sell Token1 on  at exchange1 0.025847766054729552 
+        Expected cost of flashswap: 0.00007808899156486193
+        Expected Gas cost: 0.63525
+        Expected profit: -0.6354341781336104 Token2
+2022.01.30, 02:01:56.0431 UTC -> Arb opportunity found!
+        Buy Token2 from exchange2  at 3872.4282192261735 
+        Sell Token2 from exchange1 at 3850.284359001267
+        Expected cost of flashswap: 11.650579428516266
+        Expected Gas cost: 0.63525
+        Expected profit: -31.23983469220066 Token1
+2022.01.30, 02:01:56.0431 UTC -> Arb opportunity found!
+        Flashloan Token1 on exchange2  at 0.025953757808921393 
+        Sell Token1 on  at exchange1 0.025847766054729552 
+        Expected cost of flashswap: 0.00007808899156486193
+        Expected Gas cost: 0.63525
+        Expected profit: -0.6354340807457566 Token2
+2022.01.30, 02:01:59.0667 UTC -> Arb opportunity found!
+        Buy Token2 from exchange2  at 3872.3493095508165 
+        Sell Token2 from exchange1 at 3850.284359001267
+        Expected cost of flashswap: 11.650579428516266
+        Expected Gas cost: 0.63525
+        Expected profit: -31.318107772750594 Token1
+2022.01.30, 02:01:59.0667 UTC -> Arb opportunity found!
+        Flashloan Token1 on exchange2  at 0.02595428668177996 
+        Sell Token1 on  at exchange1 0.025847766054729552 
+        Expected cost of flashswap: 0.00007808899156486193
+        Expected Gas cost: 0.63525
+        Expected profit: -0.6354346096186152 Token2
+2022.01.30, 02:02:02.0556 UTC -> Arb opportunity found!
+        Buy Token2 from exchange2  at 3872.3608138004865 
+        Sell Token2 from exchange1 at 3850.284359001267
+        Expected cost of flashswap: 11.650579428516266
+        Expected Gas cost: 0.63525
+        Expected profit: -31.306696331099104 Token1
+2022.01.30, 02:02:02.0556 UTC -> Arb opportunity found!
+        Flashloan Token1 on exchange2  at 0.025954209576005423 
+        Sell Token1 on  at exchange1 0.025847766054729552 
+        Expected cost of flashswap: 0.00007808899156486193
+        Expected Gas cost: 0.63525
+        Expected profit: -0.6354345325128408 Token2
+2022.01.30, 02:02:06.0483 UTC -> Arb opportunity found!
+        Buy Token2 from exchange2  at 3872.363949673027 
+        Sell Token2 from exchange1 at 3850.284359001267
+        Expected cost of flashswap: 11.650579428516266
+        Expected Gas cost: 0.63525
+        Expected profit: -31.303585756562555 Token1
+2022.01.30, 02:02:06.0483 UTC -> Arb opportunity found!
+        Flashloan Token1 on exchange2  at 0.02595418855829698 
+        Sell Token1 on  at exchange1 0.025847766054729552 
+        Expected cost of flashswap: 0.00007808899156486193
+        Expected Gas cost: 0.63525
+        Expected profit: -0.6354345114951323 Token2
+2022.01.30, 02:02:09.0271 UTC -> Arb opportunity found!
+        Buy Token2 from exchange2  at 3872.3386423670095 
+        Sell Token2 from exchange1 at 3850.284359001267
+        Expected cost of flashswap: 11.650579428516266
+        Expected Gas cost: 0.63525
+        Expected profit: -31.328688898560998 Token1
+2022.01.30, 02:02:09.0271 UTC -> Arb opportunity found!
+        Flashloan Token1 on exchange2  at 0.025954358177626497 
+        Sell Token1 on  at exchange1 0.025847766054729552 
+        Expected cost of flashswap: 0.00007808899156486193
+        Expected Gas cost: 0.63525
+        Expected profit: -0.6354346811144618 Token2
+2022.01.30, 02:02:11.0411 UTC -> Arb opportunity found!
+        Buy Token2 from exchange2  at 3872.4377200700055 
+        Sell Token2 from exchange1 at 3850.284359001267
+        Expected cost of flashswap: 11.650579428516266
+        Expected Gas cost: 0.63525
+        Expected profit: -31.230410487338034 Token1
+2022.01.30, 02:02:11.0411 UTC -> Arb opportunity found!
+        Flashloan Token1 on exchange2  at 0.025953694133258903 
+        Sell Token1 on  at exchange1 0.025847766054729552 
+        Expected cost of flashswap: 0.00007808899156486193
+        Expected Gas cost: 0.63525
+        Expected profit: -0.6354340170700943 Token2
+2022.01.30, 02:02:14.0789 UTC -> Arb opportunity found!
+        Buy Token2 from exchange2  at 3872.438686892919 
+        Sell Token2 from exchange1 at 3850.284359001267
+        Expected cost of flashswap: 11.650579428516266
+        Expected Gas cost: 0.63525
+        Expected profit: -31.22945146404045 Token1
+2022.01.30, 02:02:14.0789 UTC -> Arb opportunity found!
+        Flashloan Token1 on exchange2  at 0.02595368765352913 
+        Sell Token1 on  at exchange1 0.025847766054729552 
+        Expected cost of flashswap: 0.00007808899156486193
+        Expected Gas cost: 0.63525
+        Expected profit: -0.6354340105903644 Token2
+2022.01.30, 02:02:17.0452 UTC -> Arb opportunity found!
+        Buy Token2 from exchange2  at 3872.471115511549 
+        Sell Token2 from exchange1 at 3850.284359001267
+        Expected cost of flashswap: 11.650579428516266
+        Expected Gas cost: 0.63525
+        Expected profit: -31.19728445775145 Token1
+2022.01.30, 02:02:17.0452 UTC -> Arb opportunity found!
+        Flashloan Token1 on exchange2  at 0.02595347031603743 
+        Sell Token1 on  at exchange1 0.025847766054729552 
+        Expected cost of flashswap: 0.00007808899156486193
+        Expected Gas cost: 0.63525
+        Expected profit: -0.6354337932528726 Token2
+2022.01.30, 02:02:20.0404 UTC -> Arb opportunity found!
+        Flashloan Token1 on exchange2  at 0.02595338058191784 
+        Sell Token1 on  at exchange1 0.02584773091065234 
+        Expected cost of flashswap: 0.00007808888539045586
+        Expected Gas cost: 0.63525
+        Expected profit: -0.6354337385566559 Token2
+2022.01.30, 02:02:20.0404 UTC -> Arb opportunity found!
+        Buy Token2 from exchange2  at 3872.484504770535 
+        Sell Token2 from exchange1 at 3850.2895920054234
+        Expected cost of flashswap: 11.650595275628802
+        Expected Gas cost: 0.63525
+        Expected profit: -31.189269737898215 Token1
+2022.01.30, 02:02:23.0663 UTC -> Arb opportunity found!
+        Flashloan Token1 on exchange2  at 0.02595375168467006 
+        Sell Token1 on  at exchange1 0.025847919380387507 
+        Expected cost of flashswap: 0.0000780894547797728
+        Expected Gas cost: 0.63525
+        Expected profit: -0.6354339217590623 Token2
+2022.01.30, 02:02:23.0663 UTC -> Arb opportunity found!
+        Buy Token2 from exchange2  at 3872.4291329989446 
+        Sell Token2 from exchange1 at 3850.2615287823796
+        Expected cost of flashswap: 11.650510291571209
+        Expected Gas cost: 0.63525
+        Expected profit: -31.21595176818728 Token1
+2022.01.30, 02:02:27.0130 UTC -> Arb opportunity found!
+        Buy Token2 from exchange2  at 3872.4269887663622 
+        Sell Token2 from exchange1 at 3850.2615287823796
+        Expected cost of flashswap: 11.650510291571209
+        Expected Gas cost: 0.63525
+        Expected profit: -31.2180787022332 Token1
+2022.01.30, 02:02:27.0130 UTC -> Arb opportunity found!
+        Flashloan Token1 on exchange2  at 0.025953766055573823 
+        Sell Token1 on  at exchange1 0.025847919380387507 
+        Expected cost of flashswap: 0.0000780894547797728
+        Expected Gas cost: 0.63525
+        Expected profit: -0.6354339361299661 Token2
+2022.01.30, 02:02:29.0394 UTC -> Arb opportunity found!
+        Buy Token2 from exchange2  at 3872.415845290183 
+        Sell Token2 from exchange1 at 3850.2615287823796
+        Expected cost of flashswap: 11.650510291571209
+        Expected Gas cost: 0.63525
+        Expected profit: -31.229132279425997 Token1
+2022.01.30, 02:02:29.0394 UTC -> Arb opportunity found!
+        Flashloan Token1 on exchange2  at 0.025953840740745405 
+        Sell Token1 on  at exchange1 0.025847919380387507 
+        Expected cost of flashswap: 0.0000780894547797728
+        Expected Gas cost: 0.63525
+        Expected profit: -0.6354340108151377 Token2
+2022.01.30, 02:02:32.0480 UTC -> Arb opportunity found!
+        Buy Token2 from exchange2  at 3872.4289696649007 
+        Sell Token2 from exchange1 at 3850.2615287823796
+        Expected cost of flashswap: 11.650510291571209
+        Expected Gas cost: 0.63525
+        Expected profit: -31.216113782967298 Token1
+2022.01.30, 02:02:32.0480 UTC -> Arb opportunity found!
+        Flashloan Token1 on exchange2  at 0.025953752779348527 
+        Sell Token1 on  at exchange1 0.025847919380387507 
+        Expected cost of flashswap: 0.0000780894547797728
+        Expected Gas cost: 0.63525
+        Expected profit: -0.6354339228537407 Token2
+2022.01.30, 02:02:35.0641 UTC -> Arb opportunity found!
+        Buy Token2 from exchange2  at 3872.4296444911615 
+        Sell Token2 from exchange1 at 3850.2615287823796
+        Expected cost of flashswap: 11.650510291571209
+        Expected Gas cost: 0.63525
+        Expected profit: -31.215444400654818 Token1
+2022.01.30, 02:02:35.0641 UTC -> Arb opportunity found!
+        Flashloan Token1 on exchange2  at 0.025953748256584305 
+        Sell Token1 on  at exchange1 0.025847919380387507 
+        Expected cost of flashswap: 0.0000780894547797728
+        Expected Gas cost: 0.63525
+        Expected profit: -0.6354339183309765 Token2
+2022.01.30, 02:02:38.0572 UTC -> Arb opportunity found!
+        Buy Token2 from exchange2  at 3872.428298808254 
+        Sell Token2 from exchange1 at 3850.2615287823796
+        Expected cost of flashswap: 11.650510291571209
+        Expected Gas cost: 0.63525
+        Expected profit: -31.216779227360078 Token1
+2022.01.30, 02:02:38.0572 UTC -> Arb opportunity found!
+        Flashloan Token1 on exchange2  at 0.025953757275508384 
+        Sell Token1 on  at exchange1 0.025847919380387507 
+        Expected cost of flashswap: 0.0000780894547797728
+        Expected Gas cost: 0.63525
+        Expected profit: -0.6354339273499006 Token2
