@@ -4,7 +4,8 @@ A price checker and logger for token pairs on BSC.
 
 ## Installation
 
-```Clone Repository - git clone https://github.com/TimothyHyland/BSC-Uniswap-Clone-Price-Checker-logger.git
+```
+ Clone Repository - git clone https://github.com/TimothyHyland/BSC-Uniswap-Clone-Price-Checker-logger.git
  cd BSC-Uniswap-Price_Checker-logger
  npm install
  Create a .env in root directory that has WSS_URL=<BSC PROVIDER LINK>
